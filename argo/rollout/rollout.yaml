@@ -52,8 +52,8 @@ data:
         </style>
     </head>
     <body>
-    <h1>Welcome to the GREEN environment!</h1>
-    <p>Version: 2.0.0</p>
+    <h1>Welcome to the BLUE environment!</h1>
+    <p>Version: 1.0.0</p>
     <p>If you see this page, the nginx web server is successfully installed and working.</p>
     </body>
     </html>
