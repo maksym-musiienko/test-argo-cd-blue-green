@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginxdemos/hello  
+        image: argoproj/rollouts-demo:blue
         ports:
         - containerPort: 80
 
